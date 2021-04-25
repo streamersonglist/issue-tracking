@@ -26,6 +26,6 @@ All issues pertaining to [streamersonglist.com](https://www.streamersonglist.com
 
 1. Provide a short and concise title
 2. Provide a description of what the feature should do, including answers to any of the applicable questions below.
-    - Should it work the same for all users (annonymous, follower, subscriber)? If not, describe what should be different for each.
+    - Should it work the same for all users (anonymous, follower, subscriber)? If not, describe what should be different for each.
     - If it's a website feature, should the bot have a relevant command? And vice-versa.
     - Should there be options added to the settings? If so, describe the options and if they should be different for different user types.
