@@ -19,7 +19,7 @@ All issues pertaining to [streamersonglist.com](https://www.streamersonglist.com
     - Are you logged into the website?
     - What operating system and browser are you using? (ex. Chrome on Windows, Firefox on Android)
     - Is this when opening the website form inside the Twitch app?
-    - What are you in relation to the specific page? (*streamer*, *mod*, *subscriber*, *follower*, *annnonymous*)
+    - What are you in relation to the specific page? (*streamer*, *mod*, *subscriber*, *follower*, *anonymous*)
 
 
 ### Feature Requests
